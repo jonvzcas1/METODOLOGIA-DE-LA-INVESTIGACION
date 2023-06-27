@@ -1,0 +1,81 @@
+
+
+Que tipo de investigacion se va a hacer - Investigacion cuantitativa
+
+Darle un alcance real a la investigacion - Investigacion descriptiva (cuantitativa)
+
+soporte, investigacion descriptiva, explicativa - caso de estudio - cuestionarios
+
+Preguntas:
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Conocer a los encuestados
+Pregunta 1
+Edad
+ComboBox
+
+Pregunta 2
+Genero
+RadioButton
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+*****************Considera que la contraseña que usted usa es segura?
+
+*****************Cree que deba existir algun tipo de validacion adicional para verificar que es ud el que esta ingresando a su cuenta?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 3
+Conoce el uso que se le da a las cookies?
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 4
+Autoriza el uso del GPS en las redes sociales?
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 5
+Lee los términos y condiciones que se le exponen al crear una cuenta en una red social?
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 6
+Que nivel de Privacidad maneja en su cuenta red social?
+Mínima
+Media
+Alta
+CheckBox
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 7
+¿Cree usted que la configuración de Privacidad en su cuenta de red social va a limitar el acceso a su información personal? 
+Si 
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Pregunta 8
+Es conciente de la informacion personal que esta difundiendo en la red social?
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+But now a new study by researchers at the University of Adelaide in Australia and 
+the University of Vermont in the United States suggests that even deleting your social media accounts might not be enough to protect your social media privacy.
+
+Pregunta 9
+Alguna vez ha eliminado una cuenta de red social pensando que empresas de redes
+sociales como Facebook y Twitter dejarán de rastrearlo o perfilarlo.
+
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+In fact, say the researchers, this was the first-ever study that analyzed how much information 
+about an individual is encoded in interactions with friends.
+
+Pregunta 10
+Los motores de búsqueda frecuentemente presentan mensajes de marketing personalizados para usted.
+
+Si
+No
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Respuesta a la pregunta.
+If there is currently not a way to 100 percent hide your profile online, then that might open the 
+door to future regulatory action in the future.
+
+New Research Study Shows That Social Media Privacy Might Not Be Possible
+https://www.cpomagazine.com/data-privacy/new-research-study-shows-that-social-media-privacy-might-not-be-possible/
